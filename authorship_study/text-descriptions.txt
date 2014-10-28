@@ -1,0 +1,37 @@
+Text File descriptions:
+
+hedberg.txt:
+------------
+A file full of jokes by the late great comedian Mitch Hedberg.
+
+richard.txt:
+------------
+Selections of text from my physics lab write-ups.
+
+macbeth.txt:
+------------
+Macbeth by Bill Shakespeare.
+
+othello.txt:
+------------
+More by Bill.
+
+hamlet.txt
+----------
+More by Bill
+
+the-new-atlantis.txt
+--------------------
+By Bacon.
+
+song-of-hiawatha.txt:
+---------------------
+A poem by Henry Wadsworth Longfellow.
+
+the-magic-skin.txt:
+-------------------
+A novel by Honore de Balzac.
+
+medici.txt:
+-----------
+Another by Balzac.
